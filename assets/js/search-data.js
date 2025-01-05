@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-i-started-my-personal-page",
+        },{id: "post-thoughts-on-conducting-scientific-research-let-s-get-started",
+      
+        title: "Thoughts on Conducting Scientific Research: Let’s Get Started",
+      
+      description: "How do we get started with scientific research, how do we begin, and what does it lead to in the end?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/thoughts-on-conducting-research/";
+        
+      },
+    },{id: "news-i-started-my-personal-page",
           title: 'I started my personal page 🚀.',
           description: "",
           section: "News",},{
