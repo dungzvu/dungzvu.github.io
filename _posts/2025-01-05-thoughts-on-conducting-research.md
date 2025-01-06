@@ -110,7 +110,7 @@ But what does the results section include? The book's authors recommended to inc
 
 ### A simple example
 
-I asked `ChatGPT` to read through my writting and come up with an example in the field of Computer Science. While I don't focus on the correctness of the content, I find its understanding of the concepts and methods for conducting research quite impressive. Let's take a look.
+I asked `ChatGPT` to read through my writting and come up with an example in the field of Computer Science. While I don't focus on the correctness of it's thinking, I find `ChatGPT`'s understanding of the concepts and methods for conducting research is quite good. This might help you better understand the concepts. Let's take a look.
 
 ---
 
