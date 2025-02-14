@@ -5,7 +5,7 @@ permalink: /projects/
 description: my tiny world, enjoy.
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: [work, study]
 horizontal: false
 ---
 
