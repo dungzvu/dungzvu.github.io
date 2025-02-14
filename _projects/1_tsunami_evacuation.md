@@ -10,7 +10,7 @@ pdf: https://github.com/dungzvu/tsunami-evacuation-simulation/blob/main/docs/Pro
 related_publications: false
 ---
 
-This is a part of my study in USTH, my first project in <b>Modeling and Simulation the Complex System</b> with <i>GAMMA platform</i>. You can find details in my
+This is a part of my study in USTH, my first project in <b>Modeling and Simulation the Complex System</b> with <i>GAMA platform</i>. You can find details in my
 <a href="https://github.com/dungzvu/tsunami-evacuation-simulation/blob/main/docs/Project_Evacuation_VuTrungDung_Report.pdf">report</a>.
 Code is also <a href="https://github.com/dungzvu/tsunami-evacuation-simulation">here</a>.
 
