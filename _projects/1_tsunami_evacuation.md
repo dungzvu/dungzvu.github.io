@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tsunami Evacuation Simulation
+title: Tsunami Evacuation Simulation (GAMA Platform)
 description: "The goal of this project is to build an agent-based model of people evacuation, in GAMA Platform, to have a better understanding of the evacuation process and to be able to test different evacuation strategies. The question to be answered is: How to better manage the pedestrian evacuation of a population on a beach in a tsunami context?"
 img: assets/img/tsunami_sign_shutterstock.webp
 importance: 1
