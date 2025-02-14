@@ -44,7 +44,12 @@ ninja.data = [{
     },{id: "news-i-started-my-personal-page",
           title: 'I started my personal page 🚀.',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-tsunami-evacuation-simulation",
+          title: 'Tsunami Evacuation Simulation',
+          description: "The goal of this project is to build an agent-based model of people evacuation, in GAMA Platform, to have a better understanding of the evacuation process and to be able to test different evacuation strategies. The question to be answered is: How to better manage the pedestrian evacuation of a population on a beach in a tsunami context?",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_tsunami_evacuation/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
